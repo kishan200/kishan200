@@ -1,16 +1,15 @@
-### Hi there 👋
+## Full stack developer
+### <p>Hello i'm kishan sarvaiya .</p>
+- 🥅 2020 Goals: make better profile for future
+- 🌱 I’m learning Angular,React,Typescript,MEAN,MERN.
+- I'm currently focusing on improving my DS and Algo skill
+- 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/akash-chauhan-3616321a4/) 
 
-<!--
-**kishan200/kishan200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*To know more about me visit my [portfolio](https://Akash52.github.io/)*
+
+![kishan github stats](https://github-readme-stats.vercel.app/api?username=kishan200&show_icons=true&hide=["issues"])
+
+![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kishan200&&show_icons=true)
+
